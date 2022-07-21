@@ -1,8 +1,17 @@
 ---
-title: First Draft
+title: First Post
 date: 2022-07-22 00:51 +0530
+description: A lot of gibberish to check out the functionality of Chirpy.
 categories: [Trial, Random Gibberish]
 tags: [trial, random, gibberish, loremipsum]
+
+image:
+  path: /assets/img/header-img/question.jpg
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: Question Mark.
+
+pin: true
 ---
 
 ## You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?
@@ -48,3 +57,19 @@ No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doc
 I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. You hit me with a cricket bat. Father Christmas. Santa Claus. Or as I've always known him: Jeff.
 
 I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself. You've swallowed a planet! I hate yogurt. It's just stuff with bits in. I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
+
+<script src="https://giscus.app/client.js"
+        data-repo="ApoorvaKashyap/blogs"
+        data-repo-id="R_kgDOHsjO7A"
+        data-category="General"
+        data-category-id="DIC_kwDOHsjO7M4CQW5s"
+        data-mapping="url"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
