@@ -58,6 +58,9 @@ I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the D
 
 I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself. You've swallowed a planet! I hate yogurt. It's just stuff with bits in. I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why.
 
+
+<hr/>
+
 <script src="https://giscus.app/client.js"
         data-repo="ApoorvaKashyap/blogs"
         data-repo-id="R_kgDOHsjO7A"
@@ -73,3 +76,5 @@ I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is no
         crossorigin="anonymous"
         async>
 </script>
+
+<hr/>

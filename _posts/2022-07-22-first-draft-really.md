@@ -3,6 +3,8 @@ layout: post
 title: First Draft Really?
 date: 2022-07-22 01:15 +0530
 ---
+<hr/>
+
 <script src="https://giscus.app/client.js"
         data-repo="ApoorvaKashyap/blogs"
         data-repo-id="R_kgDOHsjO7A"
@@ -18,3 +20,5 @@ date: 2022-07-22 01:15 +0530
         crossorigin="anonymous"
         async>
 </script>
+
+<hr/>
