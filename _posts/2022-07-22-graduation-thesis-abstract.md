@@ -2,8 +2,9 @@
 layout: post
 title: Graduation Thesis | Abstract
 description: The abstract of my graduation thesis.
+date: 2022-07-22 11:51 +0530
 categories: [NRTI, Thesis]
-tags: [nrti, thesis, electric vehicles, coomparative study, EVs, introductions]
+tags: [nrti, thesis, electric vehicles, comparative study, EVs, abstract]
 image:
   path: "/assets/img/header-img/thesis.jpg"
   width: 1000
