@@ -2,6 +2,7 @@
 layout: post
 title: Graduation Thesis | Introduction to Thesis
 description: An introduction to my upcoming blog posts related to my graduation thesis.
+date: 2022-07-22 22:51 +0530
 categories:
 - NRTI
 - Thesis
