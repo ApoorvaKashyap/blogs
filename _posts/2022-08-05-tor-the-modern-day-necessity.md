@@ -22,7 +22,7 @@ This project was carried on by Roger Dingledine, and Nick Mathewson, the former 
 
 One of the basic principles underlying the development of the TOR was the Right to Privacy, a concept that sparked a global debate in 2013, with the Snowden revelations of 2013, to Glenn Greenwald and David Martini of The Guardian. These revelations forced the world to rethink the concept and sanctity of privacy, making them fall back to reports like Belmont’s, which subtly describes the need for privacy in the following words:
 
-“Maintaining privacy helps to protect people from potential harms including psychological harm such as embarrassment or distress; social harms such as loss of employment or damage to one’s financial standing, and criminal or civil liability.”
+*“Maintaining privacy helps to protect people from potential harms including psychological harm such as embarrassment or distress; social harms such as loss of employment or damage to one’s financial standing, and criminal or civil liability.”*
 
 Thus, in an era where the agencies and the companies are hell-bent on surveillance, projects like TOR take the burden to secure the right to privacy of individuals by providing them encrypted access to the Internet under the cloak of anonymity.
 
