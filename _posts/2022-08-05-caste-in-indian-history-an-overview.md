@@ -9,7 +9,7 @@ image:
   path: "/assets/img/header-img/caste.jpg"
   width: 1000
   height: 400
-  alt: Photo by <a href="https://unsplash.com/@britishlibrary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">British Library</a> on <a href="https://unsplash.com/s/photos/caste?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  alt: 'Photo by <a href="https://unsplash.com/@britishlibrary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">British Library</a> on <a href="https://unsplash.com/s/photos/caste?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
   
 ---
 

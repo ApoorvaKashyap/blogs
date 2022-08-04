@@ -9,7 +9,7 @@ image:
   path: "/assets/img/header-img/poverty.jpg"
   width: 1000
   height: 400
-  alt: Photo by <a href="https://unsplash.com/@crtvben?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Richardson</a> on <a href="https://unsplash.com/s/photos/poverty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  alt: 'Photo by <a href="https://unsplash.com/@crtvben?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Richardson</a> on <a href="https://unsplash.com/s/photos/poverty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
   
 ---
 
