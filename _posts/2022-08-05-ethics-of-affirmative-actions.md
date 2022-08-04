@@ -9,7 +9,7 @@ image:
   path: "/assets/img/header-img/poverty.jpg"
   width: 1000
   height: 400
-  alt: 'Photo by <a href="https://unsplash.com/@crtvben?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Richardson</a> on <a href="https://unsplash.com/s/photos/poverty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  alt: "Poverty"
   
 ---
 
@@ -77,3 +77,8 @@ The answer to the third question lies in the fact that as humans we always try t
 The ethicality of affirmative actions depends on a variety of factors, foremost amongst them being the contempt faced by the communities spanning millennia. There are questions but they dull in comparison to the mammoth task of social inclusion these actions serve. But, in spite of all that, one question still shines out like a star: What if these communities begin to misuse the system, using it to undermine the opportunities of others, even after becoming prosperous? This question has indeed been thought out well and hence a provision of a ten-year limit on implementation of the reservation system in India.
 A better solution, however, would be to implement economic status based reservation instead of caste-based. This would ensure that the advantage would reach only those people who need it. Further, it is also important to note that in the sprawling metros of today, people of both upper and lower castes face the impact of poverty alike. Thus, it would resolve this problem too. However, this can only be implemented when the discrimination based on caste is almost non-existent in the Indian backdrop, so that caste is no longer a barrier in the public sphere. Till then, we can only hope to move forward with the caste-based affirmative actions system.
 
+---
+
+#### Credits
+
+Cover Photo by <a href="https://unsplash.com/@crtvben?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Richardson</a> on <a href="https://unsplash.com/s/photos/poverty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

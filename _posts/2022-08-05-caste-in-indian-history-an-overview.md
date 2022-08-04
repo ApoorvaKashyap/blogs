@@ -9,7 +9,7 @@ image:
   path: "/assets/img/header-img/caste.jpg"
   width: 1000
   height: 400
-  alt: 'Photo by <a href="https://unsplash.com/@britishlibrary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">British Library</a> on <a href="https://unsplash.com/s/photos/caste?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  alt: 'Weaver'
   
 ---
 
@@ -108,3 +108,10 @@ The caste system has never been an intrinsic part of the Indian society. It only
 [^11]: Chakravorty, S., 2019. Viewpoint: How The British Reshaped India's Caste System. [online] BBC News. Available at: <https://www.bbc.com/news/world-asia-india-48619734 > [Accessed 1 October 2020].
 [^12]: Ambedkar, B.R., 2014. Annihilation of caste: The annotated critical edition. Verso Books.
 [^13]: Ambedkar, B.R., 2014. Who were the Shudras? (Vol. 1). Ssoft Group, INDIA.
+
+
+---
+
+#### Credits
+
+Cover Photo by <a href="https://unsplash.com/@britishlibrary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">British Library</a> on <a href="https://unsplash.com/s/photos/caste?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
