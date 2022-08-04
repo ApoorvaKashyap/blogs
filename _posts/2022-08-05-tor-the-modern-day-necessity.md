@@ -9,7 +9,7 @@ image:
   path: "/assets/img/header-img/tor-logo.png"
   width: 1000
   height: 400
-  alt: "TOR Logo"
+  alt: "TOR Logo from Wikimedia"
 ---
 
 > Very naughty people use TOR.<br>

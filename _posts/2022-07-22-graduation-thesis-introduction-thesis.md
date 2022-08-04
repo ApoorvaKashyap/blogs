@@ -2,7 +2,7 @@
 layout: post
 title: Graduation Thesis | Introduction to Thesis
 description: An introduction to my upcoming blog posts related to my graduation thesis.
-date: 2022-07-22 22:51 +0530
+date: 2022-07-23 00:55 +0530
 categories:
 - NRTI
 - Thesis
@@ -19,7 +19,7 @@ image:
   height: 400
   alt: '2-Wheeler Electric Vehicles Purchase Intention: A Study of Indian College
     Students'
-date: 2022-07-23 00:55 +0530
+
 ---
 Over the course of next two weeks, I wish to impose upon the readers of this blog, an academic document of perhaps unwieldy importance to the readers but was sacrosanct in completion of my graduate degree. It was thus, on the completion of this academic document of utmost importance that I was finally awarded my degree in the due course of time. This document was, as per the manners of naming everything in NRTI, called **the Graduation Thesis Project** or **GTP** for short and carried two trimesters worth of credits. <br/>
 

@@ -9,7 +9,7 @@ image:
   path: "/assets/img/header-img/caste.jpg"
   width: 1000
   height: 400
-  alt: 'Weaver'
+  alt: 'Cover Photo by British Library on Unsplash'
   
 ---
 
@@ -58,15 +58,25 @@ Hence, if the varna dharma or the rules of conduct regarding varna or the caste 
 Furthermore, the dharmashastras come under the ‘smritis’, which are given lower importance when they clash with the ‘shrutis’(Vedas and Puranas). However, the practise of caste system had taken place in India by 322 BCE - the establishment of the Maurya Empire. Megasthenes, a Greek explorer, has mentioned about seven types of varnas in his book ‘Indica’[^6]. Kautilya also mentions the various types of castes and how the king should deal with them. Thus, the Manusmriti, written in about 200 BCE, was just a way of formulating new laws for the governing of the evolving Hindu social life. The divisions mentioned by Megasthenes and Kautilya, are very similar to the varna system.They had just become more rigid.
 
 Though many researchers believe the caste system to be an intrinsic part of the Hindu culture, M. Nandkarni takes a more utilitarian approach. He outlines five important causes of the development of the caste system[^7].
-### I. System of Checks and Balances:
+
+### I. System of Checks and Balances
+
  The Vedic Varna System was a system to ensure decentralisation of power and efficient division of labour, allowing specialised professionals in the society. Thus, it was accepted wholeheartedly at its inception. A Bhramin was expected to gather knowledge and wisdom for the society, and preserve the Vedic traditions. Thus, he was dependent on the society for sustenance. The Kshatriya was supposed to provide security to the society and rule the society wisely. He had to listen to the counsel of his ministers and the grievances of the public. The Vaishya was tasked with bringing economic prosperity to the society through trade and commerce. The Shudra was to work in the fields and pastures and bring grains and other goods for the sustenance of the society. Hence the varna system was based on the division of labour and power.
-### II. Easy Acquisition of Skills and Labour:
+
+### II. Easy Acquisition of Skills and Labour
+
  Keeping the work within the family and teaching them to the sons and daughters was much easier than acquiring apprentices. This was further encouraged by the lack of skill schools in the ancient times. Further, this allowed the jaatis, especially the Vaishya and the Shudra to form guilds and organize themselves. Brahmins, on the other hand, were not able to organize themselves.
-### III. Decentralised Democracy:
+
+### III. Decentralised Democracy
+
  The formation of guilds led to the formation of local regulatory bodies. This  allowed the society to settle disputes in an easy and inexpensive manner, thus further reducing the dependence on the kings. This is also the reason for discouragement of inter-caste marriages as such marriages would undermine the powers and authority of these panchayats, the basis of whose existence was the local caste settlements. This also led to the formation of huge lobby groups.
-### IV. Ecological Role:
+
+### IV. Ecological Role
+
  Just like the Varna System, each caste had its own role to play in the village ecosystem. Some were labourers, some were artisans, some hunters etc. This division allowed the panchayats to regulate the natural ecological balance and avoid strain on the resources.
-### V. Security of Livelihood and Employment:
+
+### V. Security of Livelihood and Employment
+
  The primary objective of labour division was to produce sufficient for the local market. This meant that the customers and sellers had developed a cordial relationship. This meant that the buyer would shift to another customer if he provided more price and vice-versa, There was mutual trust among the communities.
 
 These were the five key factors that led to the establishment of the caste system in the ancient Indian society.
@@ -92,26 +102,25 @@ This resulting categorical system was made more rigid over the next century, esp
 The caste system has never been an intrinsic part of the Indian society. It only grew and was accepted due to the advantages it offered. Now, it's no longer needed as there is no need for the local self-sustaining communities with hereditary jobs. With the ever growing reach of the Internet, the options are abundant. Hence the nail that has been driven needs to be taken out and let the society heal.
 
 ---
+#### Credits
 
-## References
-
-[^1]: Collinsdictionary.com. n.d. Caste Definition And Meaning \| Collins English Dictionary. [online] Available at: <https://www.collinsdictionary.com/dictionary/english/caste > [Accessed 1 October 2020].
-[^2]: Krishnananda, S., n.d. The Purusha Sukta - Daily Invocations. [online] Swami-krishnananda.org. Available at: <https://www.swami-krishnananda.org/invoc/in_pura.html > [Accessed 1 October 2020].
-[^3]: Sharma, A., 2001. Classical Hindu Thought. Delhi: Oxford University Press, pp.142-165.
-[^4]: Frawley, D., 1994. The Myth Of The Aryan Invasion Of India. [ebook] Available at: <http://identitypublishers.org/wp-content/uploads/2015/04/The-Myth-of-the-Aryan-Invasion-of-India.pdf > [Accessed 1 October 2020].
-[^5]: Deshpande, M., 2010. History Of The Indian Caste System And Its Impact On India Today. [ebook] San Luis Obispo, California: College of Liberal Arts, California Polytechnic State University. Available at: <https://digitalcommons.calpoly.edu/socssp/44/ > [Accessed 1 October 2020].
-[^6]: 1877\. Ancient India As Described By Megasthenês And Arrian. 1st ed. Thacker, Spink, 1877.
-[^7]: Nandkarni, M., 2003. Is Caste System Intrinsic to Hinduism? Demolishing a Myth. Economic and Political Weekly, [online] 38(45), pp.4783-4793. Available at: <https://www.jstor.org/stable/4414252 > [Accessed 1 October 2020].
-[^8]: Encyclopedia Britannica. 2015. Islamic Caste \| Indian Society. [online] Available at: <https://www.britannica.com/topic/Islamic-caste > [Accessed 1 October 2020].
-[^9]: Columbia.edu. 2020. The Interaction Of Islam And Hinduism. [online] Available at: <http://www.columbia.edu/itc/mealac/pritchett/00islamlinks/ikram/part1_09.html > [Accessed 1 October 2020].
-[^10]: Venkatesh, K., 2016. A Brief History Of The Bhakti Movement. [online] Mint. Available at: <https://www.livemint.com/Sundayapp/0irwa2rMY1lUJKtPEtX4sO/A-brief-history-of-the-Bhakti-movement.html > [Accessed 1 October 2020].
-[^11]: Chakravorty, S., 2019. Viewpoint: How The British Reshaped India's Caste System. [online] BBC News. Available at: <https://www.bbc.com/news/world-asia-india-48619734 > [Accessed 1 October 2020].
-[^12]: Ambedkar, B.R., 2014. Annihilation of caste: The annotated critical edition. Verso Books.
-[^13]: Ambedkar, B.R., 2014. Who were the Shudras? (Vol. 1). Ssoft Group, INDIA.
+Cover Photo by <a href="https://unsplash.com/@britishlibrary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">British Library</a> on <a href="https://unsplash.com/s/photos/caste?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 
 ---
 
-#### Credits
+## References
 
-Cover Photo by <a href="https://unsplash.com/@britishlibrary?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">British Library</a> on <a href="https://unsplash.com/s/photos/caste?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+[^1]: Collinsdictionary.com. n.d. Caste Definition And Meaning \| Collins English Dictionary. [online] Available at: <https://www.collinsdictionary.com/dictionary/english/caste > [Accessed 1 October 2020].
+[^2]: Krishnananda, S., n.d. The Purusha Sukta - Daily Invocations. [online] Swami-krishnananda.org. Available at: <<https://www.swami-krishnananda.org/invoc/in_pura.html> > [Accessed 1 October 2020].
+[^3]: Sharma, A., 2001. Classical Hindu Thought. Delhi: Oxford University Press, pp.142-165.
+[^4]: Frawley, D., 1994. The Myth Of The Aryan Invasion Of India. [ebook] Available at: <<http://identitypublishers.org/wp-content/uploads/2015/04/The-Myth-of-the-Aryan-Invasion-of-India.pdf> > [Accessed 1 October 2020].
+[^5]: Deshpande, M., 2010. History Of The Indian Caste System And Its Impact On India Today. [ebook] San Luis Obispo, California: College of Liberal Arts, California Polytechnic State University. Available at: <<https://digitalcommons.calpoly.edu/socssp/44/> > [Accessed 1 October 2020].
+[^6]: 1877\. Ancient India As Described By Megasthenês And Arrian. 1st ed. Thacker, Spink, 1877.
+[^7]: Nandkarni, M., 2003. Is Caste System Intrinsic to Hinduism? Demolishing a Myth. Economic and Political Weekly, [online] 38(45), pp.4783-4793. Available at: <<https://www.jstor.org/stable/4414252> > [Accessed 1 October 2020].
+[^8]: Encyclopedia Britannica. 2015. Islamic Caste \| Indian Society. [online] Available at: <https://www.britannica.com/topic/Islamic-caste > [Accessed 1 October 2020].
+[^9]: Columbia.edu. 2020. The Interaction Of Islam And Hinduism. [online] Available at: <<http://www.columbia.edu/itc/mealac/pritchett/00islamlinks/ikram/part1_09.html> > [Accessed 1 October 2020].
+[^10]: Venkatesh, K., 2016. A Brief History Of The Bhakti Movement. [online] Mint. Available at: <<https://www.livemint.com/Sundayapp/0irwa2rMY1lUJKtPEtX4sO/A-brief-history-of-the-Bhakti-movement.html> > [Accessed 1 October 2020].
+[^11]: Chakravorty, S., 2019. Viewpoint: How The British Reshaped India's Caste System. [online] BBC News. Available at: <<https://www.bbc.com/news/world-asia-india-48619734> > [Accessed 1 October 2020].
+[^12]: Ambedkar, B.R., 2014. Annihilation of caste: The annotated critical edition. Verso Books.
+[^13]: Ambedkar, B.R., 2014. Who were the Shudras? (Vol. 1). Ssoft Group, INDIA.
